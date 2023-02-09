@@ -13,6 +13,7 @@ Unfortunately I was unable to upload the entire Unity project to GitHub so it is
 Unity Game Engine
 
 C#
+
 Visual Studio 2022
 
 # Useful Websites
@@ -21,7 +22,6 @@ Visual Studio 2022
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add goal object to move to next level
 * Create level design for multiple levels
 * Add moving aspects of levels
